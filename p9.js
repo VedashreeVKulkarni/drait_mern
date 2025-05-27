@@ -28,3 +28,4 @@ function guessTheNumber() {
 
 // To start the game, call:
 guessTheNumber();
+
